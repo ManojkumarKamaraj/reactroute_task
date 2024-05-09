@@ -13,7 +13,7 @@ const App = () => {
   const data = [
     {
       title: "Full Stack Development",
-      image : "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+      image : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlxNwPh-bXEMQQomZ5WkLILoWbDp_3kfP04A&s",
       content:
         "Become a Full Stack Developer in Just 90 days with our Full Stack Developer Course with Placement Guarantee, 50+ Interviews. Get enrolled today!",
       date : "08-may-2024"
@@ -27,7 +27,7 @@ const App = () => {
     },
     {
       title: "Full Stack Development",
-      image : "https://www.guvi.in/blog/wp-content/uploads/2021/09/Full-Stack-Developer-course-syllabus.png",
+      image : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq9qnBMPXaerbrGFZ_qbeiuDgza1YKWccg4cTJRPQXrw&s",
       content:
         "Become a Full Stack Developer in Just 90 days with our Full Stack Developer Course with Placement Guarantee, 50+ Interviews. Get enrolled today!",
       date : "08-may-2024"

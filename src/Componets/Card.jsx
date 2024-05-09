@@ -5,7 +5,7 @@ const Card = ({ element, index }) => {
 
     <div key={element.id}>
       <div className="card">
-        <img src={element.image} alt="Datascience.png" />
+        <img src={element.image} alt="image.png" />
         <div className="card-body">
           <h5 className="card-title">{element.title}</h5>
           <p className="card-text">{element.content}</p>
