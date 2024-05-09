@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+.nav-item  a{
+  text-decoration: none !important;
+  margin: 25px;
+}
+.navbar a{
+  text-decoration: none !important;
+}
+img{
+  height: 200px;
+
+}
+
+
+.card{
+  width:18rem;
+  margin: 19px;
+}
